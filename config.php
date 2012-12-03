@@ -16,13 +16,13 @@ $social_media[] = array('Github', 'http://github.com/aacostarubio');
 $work_history[] = array('2012',
 						'Student',
 						'Starter League',
-						'Web Development (Ruby, Rails, jQuery)');
-						'HTML/CSS');
+						'Web Development (Ruby, Rails, jQuery)',
+						'HTML/CSS',
 						'UX Design');
 $work_history[] = array('2012',
 						'Chief Back-End Development',
 						'Surfeit',
-						'Ruby and Rails');
+						'Ruby and Rails',
 						'www.surfeit.me');
 
 // Phew!  That was the hard part.  Now we need to enter in some other important information about you.  Let's start with your education.  You only need to enter two things: your school and a description of your degree.  If you went to Brown University you'd enter that for your school, then put your year and graduation date as the description (e.g. "BA in Social Sciences, Class of 2002").
