@@ -28,6 +28,7 @@ $education[] = array('Miami-Dade College', 'Current Undergraduate in Computer & 
 
 // Presumably you learned something in school and developed a few skills over the course of your lifetime.  Let's add them here.  
 $skills[] = array('Software', 'Programming learning junkie, fluent in Ruby, Rails, HTML5/CSS3, and some knowledge in jQuery');
+$skills[] = array('Languages', 'Spanish (native), English (fluent)');
 $skills[] = array('Racquetball', 'I prove my skills in the court. You can challenge me at any time.');
 
 // Finally, let's list any awards or honors you've received so you can show off your accomplishments.  To add an award, just use the format below.  (I'm sure you have the hang of this by now, but we're going to go over it anyway.)  The first item you enter is the name of the award/honor (e.g. "Advertising Gold Award" or "Published in the New Yorker") and the second item is the description of the award/honor (e.g. "2010 TV Ads Under $50,000" or "Short story about the trials of Orthodox Jews in Arkansas, May 2016").
@@ -42,7 +43,7 @@ $settings['skills'] = true;
 $settings['awards'] = true;
 
 // There are also a few other settings you can toggle on and off, such as offering a printable version of your resume and whether to use a dark or light style (set style to "dark" or "light" to choose).
-$settings['printable'] = false;
+$settings['printable'] = true;
 $settings['style'] = "dark";
 $settings['lang'] = "en";
 ?>
