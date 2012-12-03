@@ -44,7 +44,7 @@ $settings['skills'] = true;
 $settings['awards'] = true;
 
 // There are also a few other settings you can toggle on and off, such as offering a printable version of your resume and whether to use a dark or light style (set style to "dark" or "light" to choose).
-$settings['printable'] = true;
+$settings['printable'] = false;
 $settings['style'] = "dark";
 $settings['lang'] = "en";
 ?>
