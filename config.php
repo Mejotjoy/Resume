@@ -2,8 +2,8 @@
 // Enter your personal details here to build your online resume.
 
 // Let's start with some basic info.  You must include your full name, but if you don't want to include your phone number or email address you can just delete those lines entirely.
-$personal['first_name']= 'Alejandro';
-$personal['last_name'] = 'Acosta-Rubio';
+$personal['first_name']= 'Marco El Wigly';
+$personal['last_name'] = 'Santerini';
 $personal['phone_number'] = '305-798-3616';
 $personal['email_address'] = 'aacostarubio@gmail.com';
 
@@ -19,8 +19,8 @@ $work_history[] = array('2012',
 						'Web Development (Ruby, Rails, jQuery) HTML/CSS , UX Design');
 $work_history[] = array('2012',
 						'Chief Back-End Development',
-						'Surfeit',
-						'Ruby and Rails',
+						'Surfeit.me',
+						'Ruby, Rails, UX',
 						'www.surfeit.me');
 
 // Phew!  That was the hard part.  Now we need to enter in some other important information about you.  Let's start with your education.  You only need to enter two things: your school and a description of your degree.  If you went to Brown University you'd enter that for your school, then put your year and graduation date as the description (e.g. "BA in Social Sciences, Class of 2002").
