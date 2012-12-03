@@ -2,8 +2,8 @@
 // Enter your personal details here to build your online resume.
 
 // Let's start with some basic info.  You must include your full name, but if you don't want to include your phone number or email address you can just delete those lines entirely.
-$personal['first_name']= 'Veronica';
-$personal['last_name'] = 'Ponce De Leon';
+$personal['first_name']= 'Alejandro';
+$personal['last_name'] = 'Acosta-Rubio';
 $personal['phone_number'] = '305-798-3616';
 $personal['email_address'] = 'aacostarubio@gmail.com';
 
