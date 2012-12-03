@@ -2,8 +2,8 @@
 // Enter your personal details here to build your online resume.
 
 // Let's start with some basic info.  You must include your full name, but if you don't want to include your phone number or email address you can just delete those lines entirely.
-$personal['first_name']= 'Marco El Wigly';
-$personal['last_name'] = 'Santerini';
+$personal['first_name']= 'Alejandro';
+$personal['last_name'] = 'Acosta-Rubio';
 $personal['phone_number'] = '305-798-3616';
 $personal['email_address'] = 'aacostarubio@gmail.com';
 
@@ -16,7 +16,9 @@ $social_media[] = array('Github', 'http://github.com/aacostarubio');
 $work_history[] = array('2012',
 						'Student',
 						'Starter League',
-						'Web Development (Ruby, Rails, jQuery) HTML/CSS , UX Design');
+						'Web Development (Ruby, Rails, jQuery)';
+						'HTML/CSS';
+					 	'UX Design');
 $work_history[] = array('2012',
 						'Chief Back-End Development',
 						'Surfeit.me',
