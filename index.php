@@ -46,6 +46,7 @@ require_once($langfile);
 	<link rel="stylesheet" href="css/printable.css" type="text/css" media="print" />
 </head>
 <body>
+	<?php include_once("analyticstracking.php") ?>
 	<div id="content">
 		<div id="header">
 			<span class="header_name"><?php echo $lang['header']; ?></span><br />
