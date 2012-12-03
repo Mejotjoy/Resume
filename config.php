@@ -16,9 +16,7 @@ $social_media[] = array('Github', 'http://github.com/aacostarubio');
 $work_history[] = array('2012',
 						'Student',
 						'Starter League',
-						'Web Development (Ruby, Rails, jQuery)',
-						'HTML/CSS',
-						'UX Design');
+						'Web Development (Ruby, Rails, jQuery) HTML/CSS , UX Design');
 $work_history[] = array('2012',
 						'Chief Back-End Development',
 						'Surfeit',
