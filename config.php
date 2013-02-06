@@ -11,6 +11,7 @@ $personal['email_address'] = 'aacostarubio@gmail.com';
 $social_media[] = array('Facebook', 'http://facebook.com/aacostarubio');
 $social_media[] = array('Twitter', 'http://twitter.com/aacostarubio');
 $social_media[] = array('Github', 'http://github.com/aacostarubio');
+$social_media[] = array('Tumblr', 'http://alittlesomething.me');
 
 // Cool.  With that stuff out of the way, let's input your work history.  This part requires a bit more information but it's similar to adding a social media page like you did above but with more information.  The first item you enter is last year you worked at the job (or the range of time, if you prefer).  The second item is your job title, the third is the company you worked for, and the fourth is a description of the work you did there.  The description can get a little long, but that's okay.  Just be sure not to use any single quotes ('') or things will break!  You can add as many jobs as you like and the script will adapt.
 $work_history[] = array('2012',
@@ -22,12 +23,17 @@ $work_history[] = array('2012',
 						'Surfeit.me',
 						'Ruby, Rails, UX',
 						'www.surfeit.me');
+$work_history[] = array('2013',
+						'Software Apprentice',
+						'8th Light, inc',
+						'Ruby, Java, Javascript, Rails, Clojure',
+						'www.8thlight.com');
 
 // Phew!  That was the hard part.  Now we need to enter in some other important information about you.  Let's start with your education.  You only need to enter two things: your school and a description of your degree.  If you went to Brown University you'd enter that for your school, then put your year and graduation date as the description (e.g. "BA in Social Sciences, Class of 2002").
 $education[] = array('Miami-Dade College', 'Current Undergraduate in Computer & Electrical Engineering');
 
 // Presumably you learned something in school and developed a few skills over the course of your lifetime.  Let's add them here.  
-$skills[] = array('Software', 'Programming learning junkie, fluent in Ruby, Rails, HTML5/CSS3, and some knowledge in jQuery');
+$skills[] = array('Software', 'Programming learning junkie in Ruby, Rails, HTML5/CSS3, Java, Clojure. TDD advocate.');
 $skills[] = array('Languages', 'Spanish (native), English (fluent)');
 $skills[] = array('Racquetball', 'I prove my skills in the court. You can challenge me at any time.');
 
